@@ -3,7 +3,7 @@ Analysis of 311 services data for a freelancing project
 
 This repository is created for a freelancing project of below tasks.
 
-NYC Boroughs:
+### NYC Boroughs:
 1.	Bronx
 2.	Manhattan 
 3.	Brooklyn
@@ -15,7 +15,7 @@ Data and CSV Schema Fields (can be found from the link below):
 https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9
 
 
-For this project, we are only concerned about 2 fields:
+#### For this project, we are only concerned about 2 fields:
 
 1.	Complaint Types
 2.	Borough
@@ -25,7 +25,7 @@ For this project, we are only concerned about 2 fields:
 
 
 
-Part A.
+### Part A.
 
 1)	Create a script that grabs data from the CSV using the Pandas library.  
 
